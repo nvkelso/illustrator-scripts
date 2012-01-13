@@ -16,4 +16,4 @@ Installation
 
 TIP: You can create subfolders in the scripts folder to organize your scripts (like they are organized here)
 
-NOTE: Adaoted from a guide by Wolfgang Reszel.
+NOTE: Adopted from a guide by Wolfgang Reszel.
