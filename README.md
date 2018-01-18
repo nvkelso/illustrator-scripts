@@ -5,7 +5,7 @@ I used to work for the Washington Post newspaper as a cartographer creating maps
 
 A pretty version documenting these scripts:
 -------
-[http://kelso.it/scripts/](http://kelso.it/scripts/)
+[http://kelsocartography.com/scripts/](http://kelsocartography.com/scripts/)
 
 Installation
 -------
