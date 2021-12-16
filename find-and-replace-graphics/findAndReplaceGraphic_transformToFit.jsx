@@ -69,7 +69,7 @@ if (documents.length>0) {
 			
 			for (var i=0; i < mySelection.length; i++) {
 				eval('subArray' + i + '=' + 'new Array()');
-				eval('subArray' + i + '["object"]' +  '=' + mySelection[i]);
+				eval('subArray' + i + '["object"]' +  '="' + mySelection[i] + '"');
 				initBounds = mySelection[i].geometricBounds;
 				ul_x = initBounds[0];
 				ul_y = initBounds[1];
